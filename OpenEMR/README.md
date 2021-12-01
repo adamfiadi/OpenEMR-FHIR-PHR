@@ -1,9 +1,14 @@
 **INSTALLATION :**
 
-2. Open up web-browser and point it to the installation script at http://localhost/openemr .
+1. Download the "openemr" folder ann copy it to xampp/htdocs
+
+2. Activate Apache and MYSql on XAMPP
+![image](https://user-images.githubusercontent.com/75717384/144190087-7ade7a34-da2c-4429-be66-528265ed47e4.png)
+
+3. Open up web-browser and point it to the installation script at http://localhost/openemr .
 ![image](https://user-images.githubusercontent.com/75717384/144184662-33b9ab4e-e060-4f6a-b7c7-d61433be4702.png)
 
-3. The next page is 'OpenEMR Setup'. Leave the setting set to 'Have setup create the database', and click the 'Proceed to Step 2' button. You can click on the tooltip link at top right of page for more instructions
+4. The next page is 'OpenEMR Setup'. Leave the setting set to 'Have setup create the database', and click the 'Proceed to Step 2' button. You can click on the tooltip link at top right of page for more instructions
 ![image](https://user-images.githubusercontent.com/75717384/144184708-c0b5dae2-3eb8-44ff-94d1-c663bb3ed7bc.png)
 
 4. Most users will just need to enter a 'Password' for the sql user, 'Root Password' for the sql root user, and a 'Initial User Password' for the OpenEMR User. When completed, then click the 'Create DB and User' button. 
