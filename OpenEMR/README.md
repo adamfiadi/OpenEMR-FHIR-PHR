@@ -1,6 +1,7 @@
 **INSTALLATION :**
 
-1. Download the "openemr" folder ann copy it to xampp/htdocs
+1. Download and unzip the openemr file on your xampp/htdocs 
+(You can find on https://www.open-emr.org/wiki/index.php/OpenEMR_5.0.2_Windows_Installation )
 
 2. Activate Apache and MYSql on XAMPP
 ![image](https://user-images.githubusercontent.com/75717384/144190087-7ade7a34-da2c-4429-be66-528265ed47e4.png)
